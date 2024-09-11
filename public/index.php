@@ -1,3 +1,3 @@
 <?php
 
-var_dump('asdasda');
+echo('Hello World');
